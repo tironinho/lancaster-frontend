@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "newstore-sorteios",
   "version": "0.1.0",
   "private": true,
@@ -43,28 +42,3 @@
     ]
   }
 }
-=======
-  "name": "ia-orcamento-tingimento-react",
-  "private": true,
-  "version": "0.1.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "jspdf": "^2.5.1",
-    "html2canvas": "^1.4.1"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^4.3.3",
-    "tailwindcss": "^3.4.10",
-    "postcss": "^8.4.47",
-    "autoprefixer": "^10.4.20",
-    "vite": "^5.4.3"
-  }
-}
->>>>>>> e63dcfb8ae5164ffd80f20c446e88bc0d7db493d
