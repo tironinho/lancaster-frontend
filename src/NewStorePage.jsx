@@ -30,7 +30,6 @@ import {
   Typography,
   createTheme,
 } from '@mui/material';
-import MenuIcon from '@mui/icons-material/Menu';
 import AccountCircleRoundedIcon from '@mui/icons-material/AccountCircleRounded';
 
 // Imagens locais (substituem links externos)
